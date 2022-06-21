@@ -1,0 +1,9 @@
+.title {
+  font-size: 5rem;
+  font-weight: bold;
+  margin-bottom: 0.5em;
+  text-align: center;
+  letter-spacing: 2px;
+  font-family: "monotype corsiva", cursive;
+  color: rgb(217, 49, 57);
+}
